@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596942987637,
+  "timestamp": 1596998063413,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.97950ff8c423cc187516.js",
-        "/main-es5.97950ff8c423cc187516.js",
+        "/main-es2015.fb240cdf905d989f07da.js",
+        "/main-es5.fb240cdf905d989f07da.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.f332a089ad1600448873.js",
         "/polyfills-es5.177e85a9724683782539.js",
@@ -47,6 +47,7 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
+        "/assets/img/loading.gif",
         "/order-ascending.091d3b6d3083cb84793b.svg",
         "/order-descending.f60e7f2ec6983b34bd67.svg",
         "/order-unselected.ec2002dad008181c28cc.svg",
@@ -88,10 +89,11 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/loading.gif": "7a8c2f0c3900574eeded129e484db45fd321f748",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "35b969ab0b0771b8cba8af91983fdf84d6932a1f",
-    "/main-es2015.97950ff8c423cc187516.js": "ced6cb1dbd1702e98cf166b8ef6faa835a31df44",
-    "/main-es5.97950ff8c423cc187516.js": "decbbf2edcec401ffb27c99154effe882c5f8539",
+    "/index.html": "260b15d90470dfeaff853ac62a988cc27c9ae500",
+    "/main-es2015.fb240cdf905d989f07da.js": "208df5f679f53b8cb421a669b69c4b43a165c8d9",
+    "/main-es5.fb240cdf905d989f07da.js": "0a932246b94b0920774acfaa2d590d2500c0f679",
     "/manifest.webmanifest": "e020b5c12992ca121994eb0008cea08bcb5d63fa",
     "/order-ascending.091d3b6d3083cb84793b.svg": "81f52dddb5f66ec8c573b77b9aa714b550fdd14d",
     "/order-descending.f60e7f2ec6983b34bd67.svg": "c81adfc4f91025439deca866aaf80d1321a4fca0",
