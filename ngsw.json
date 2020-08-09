@@ -1,0 +1,127 @@
+{
+  "configVersion": 1,
+  "timestamp": 1596936796226,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.18cf645132f919a8de1d.js",
+        "/main.2f96d6412f484b65046f.js",
+        "/main.bc94fd10be700e4dbea7.js",
+        "/manifest.webmanifest",
+        "/ngsw-worker.js",
+        "/polyfills.a4021de53358bb0fec14.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/safety-worker.js",
+        "/styles.6ccd73d9c4eabc634fc4.css",
+        "/worker-basic.min.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/PoIcon.674feb58fe35bad6290a.eot",
+        "/PoIcon.c9777c238abcda46f0f0.svg",
+        "/PoIcon.cfc4ccd37bc7fe516405.ttf",
+        "/PoIcon.ffaadd0f052f01a3bd66.woff",
+        "/Roboto-Bold.6dafca5a4f1e31f2bdf1.ttf",
+        "/Roboto-Light.73fd17b88d34c2b2f437.ttf",
+        "/Roboto-Regular.1ba679c05036b34bf359.ttf",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/order-ascending.091d3b6d3083cb84793b.svg",
+        "/order-descending.f60e7f2ec6983b34bd67.svg",
+        "/order-unselected.ec2002dad008181c28cc.svg",
+        "/po-logo-menu-panel.ee64c0878d14409f8053.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "car-api",
+      "patterns": [
+        "http:\\/\\/localhost:5000\\/[^/]*"
+      ],
+      "strategy": "performance",
+      "maxSize": 1000,
+      "maxAge": 36000000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/PoIcon.674feb58fe35bad6290a.eot": "5a755b12dd9e8c988b19305cc91e643dbc5f9c32",
+    "/PoIcon.c9777c238abcda46f0f0.svg": "c4bb3356d32ff4ac498a58b28df6e87f18ec86ec",
+    "/PoIcon.cfc4ccd37bc7fe516405.ttf": "679ef149248e91992e11278b9e47914d7a8d02c5",
+    "/PoIcon.ffaadd0f052f01a3bd66.woff": "91775e0eddab399b1652e4485003e6461c0efdac",
+    "/Roboto-Bold.6dafca5a4f1e31f2bdf1.ttf": "cc6475f739a24f3a0a4da47addd854d097fead7e",
+    "/Roboto-Light.73fd17b88d34c2b2f437.ttf": "3d12868aa590c19782abe544aaa6fdb9c06a398c",
+    "/Roboto-Regular.1ba679c05036b34bf359.ttf": "cca06f9de4844f45a2e0af1501b64f317078b3b0",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "4d7633a9d275651129cd1f4119f1f45be9db5eb1",
+    "/main.18cf645132f919a8de1d.js": "3da4730fd564621f0b38f2674dd17000b8c2f1ea",
+    "/main.2f96d6412f484b65046f.js": "2d46d8bc3b70a85fcd5be0312ee3557c441ce062",
+    "/main.bc94fd10be700e4dbea7.js": "4d2c1d031c8121371a6646a5b597db81cde2ad06",
+    "/manifest.webmanifest": "f55e5d762faad90cd45748dd025268c858565f1b",
+    "/ngsw-worker.js": "c3b3c152737629b63e937a68ca48b8911606ece7",
+    "/order-ascending.091d3b6d3083cb84793b.svg": "81f52dddb5f66ec8c573b77b9aa714b550fdd14d",
+    "/order-descending.f60e7f2ec6983b34bd67.svg": "c81adfc4f91025439deca866aaf80d1321a4fca0",
+    "/order-unselected.ec2002dad008181c28cc.svg": "8eefdabc55f99d3280202048e16e3f40abff4186",
+    "/po-logo-menu-panel.ee64c0878d14409f8053.svg": "62ac9515ec3398ac98d93de4e29ff46078a32eb9",
+    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
+    "/styles.6ccd73d9c4eabc634fc4.css": "6844ea2d9be2bf165b80faadad8d9404490c4e95",
+    "/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
