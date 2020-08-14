@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1596998063413,
+  "timestamp": 1597413472683,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,14 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.fb240cdf905d989f07da.js",
-        "/main-es5.fb240cdf905d989f07da.js",
+        "/main.8ef913065e7d14737cd2.js",
         "/manifest.webmanifest",
-        "/polyfills-es2015.f332a089ad1600448873.js",
-        "/polyfills-es5.177e85a9724683782539.js",
-        "/runtime-es2015.0dae8cbc97194c7caed4.js",
-        "/runtime-es5.0dae8cbc97194c7caed4.js",
-        "/styles.fdd1d72282f9df62af5f.css"
+        "/polyfills.a4021de53358bb0fec14.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
+        "/styles.fbb8e09e6825ca99ab01.css"
       ],
       "patterns": []
     },
@@ -32,10 +29,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/PoIcon.a07770cf16e7c93b0631.woff",
-        "/PoIcon.dab1ffebd8fdee6616ae.svg",
-        "/PoIcon.e298a03e5892ac766384.ttf",
-        "/PoIcon.f7f3b989089db715d386.eot",
+        "/NunitoSans-Bold.75691ead9302573e74e3.ttf",
+        "/NunitoSans-ExtraLight.8719faed79cf6dfbee48.ttf",
+        "/NunitoSans-Regular.cb66302a95370933dbfb.ttf",
+        "/PoIcon.674feb58fe35bad6290a.eot",
+        "/PoIcon.c9777c238abcda46f0f0.svg",
+        "/PoIcon.cfc4ccd37bc7fe516405.ttf",
+        "/PoIcon.ffaadd0f052f01a3bd66.woff",
         "/Roboto-Bold.6dafca5a4f1e31f2bdf1.ttf",
         "/Roboto-Light.73fd17b88d34c2b2f437.ttf",
         "/Roboto-Regular.1ba679c05036b34bf359.ttf",
@@ -47,7 +47,6 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
-        "/assets/img/loading.gif",
         "/order-ascending.091d3b6d3083cb84793b.svg",
         "/order-descending.f60e7f2ec6983b34bd67.svg",
         "/order-unselected.ec2002dad008181c28cc.svg",
@@ -56,28 +55,15 @@
       "patterns": []
     }
   ],
-  "dataGroups": [
-    {
-      "name": "car-api",
-      "patterns": [
-        "https:\\/\\/www\\.carqueryapi\\.com\\/api\\/0\\.3\\/[^/]*",
-        "http:\\/\\/localhost:9090\\/[^/]*"
-      ],
-      "strategy": "performance",
-      "maxSize": 1000,
-      "maxAge": 36000000,
-      "timeoutMs": 5000,
-      "cacheQueryOptions": {
-        "ignoreVary": true
-      },
-      "version": 1
-    }
-  ],
+  "dataGroups": [],
   "hashTable": {
-    "/PoIcon.a07770cf16e7c93b0631.woff": "fac9f290b4aec69d91c08bccefa0e1f360fa5016",
-    "/PoIcon.dab1ffebd8fdee6616ae.svg": "adea9f5ab4a3a1ce8b11535022b6c3a9a180abc8",
-    "/PoIcon.e298a03e5892ac766384.ttf": "d41f1140a4abb324535715738ff3ea9d56bf9a47",
-    "/PoIcon.f7f3b989089db715d386.eot": "a46b69745643a60201f25a650a50f495b085c2c8",
+    "/NunitoSans-Bold.75691ead9302573e74e3.ttf": "8ebd43c3b1c36c1acacb5c59bd087da110eb47c7",
+    "/NunitoSans-ExtraLight.8719faed79cf6dfbee48.ttf": "a4c94084f250a7361674b87d80599a2858ce87ab",
+    "/NunitoSans-Regular.cb66302a95370933dbfb.ttf": "0660c9ab1b018a073e06d7a13b0b3959940effba",
+    "/PoIcon.674feb58fe35bad6290a.eot": "5a755b12dd9e8c988b19305cc91e643dbc5f9c32",
+    "/PoIcon.c9777c238abcda46f0f0.svg": "c4bb3356d32ff4ac498a58b28df6e87f18ec86ec",
+    "/PoIcon.cfc4ccd37bc7fe516405.ttf": "679ef149248e91992e11278b9e47914d7a8d02c5",
+    "/PoIcon.ffaadd0f052f01a3bd66.woff": "91775e0eddab399b1652e4485003e6461c0efdac",
     "/Roboto-Bold.6dafca5a4f1e31f2bdf1.ttf": "cc6475f739a24f3a0a4da47addd854d097fead7e",
     "/Roboto-Light.73fd17b88d34c2b2f437.ttf": "3d12868aa590c19782abe544aaa6fdb9c06a398c",
     "/Roboto-Regular.1ba679c05036b34bf359.ttf": "cca06f9de4844f45a2e0af1501b64f317078b3b0",
@@ -89,21 +75,17 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/img/loading.gif": "7a8c2f0c3900574eeded129e484db45fd321f748",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "260b15d90470dfeaff853ac62a988cc27c9ae500",
-    "/main-es2015.fb240cdf905d989f07da.js": "208df5f679f53b8cb421a669b69c4b43a165c8d9",
-    "/main-es5.fb240cdf905d989f07da.js": "0a932246b94b0920774acfaa2d590d2500c0f679",
-    "/manifest.webmanifest": "e020b5c12992ca121994eb0008cea08bcb5d63fa",
+    "/index.html": "b13f23de81cb33eba2cecbe1b0d5881ea72b9528",
+    "/main.8ef913065e7d14737cd2.js": "b2f49dfe83fc730f4de7edf2dcdb2ee905597739",
+    "/manifest.webmanifest": "eb31a232cba2d063eda48e70820e8510f1917cf7",
     "/order-ascending.091d3b6d3083cb84793b.svg": "81f52dddb5f66ec8c573b77b9aa714b550fdd14d",
     "/order-descending.f60e7f2ec6983b34bd67.svg": "c81adfc4f91025439deca866aaf80d1321a4fca0",
     "/order-unselected.ec2002dad008181c28cc.svg": "8eefdabc55f99d3280202048e16e3f40abff4186",
     "/po-logo-menu-panel.ee64c0878d14409f8053.svg": "62ac9515ec3398ac98d93de4e29ff46078a32eb9",
-    "/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
-    "/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
-    "/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/runtime-es5.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.fdd1d72282f9df62af5f.css": "2df28a62c9a3f634ee85c39e97fec804ecf25554"
+    "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.fbb8e09e6825ca99ab01.css": "df92d3c67018398865d15bc48a0af55b558331c5"
   },
   "navigationUrls": [
     {

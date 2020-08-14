@@ -1,6 +1,6 @@
 {
-  "name": "curso-pwa-angular",
-  "short_name": "curso-pwa-angular",
+  "name": "gestao-de-vendas",
+  "short_name": "gestao-de-vendas",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
