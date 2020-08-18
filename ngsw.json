@@ -1,10 +1,6 @@
 {
   "configVersion": 1,
-<<<<<<< HEAD
   "timestamp": 1597698665783,
-=======
-  "timestamp": 1597504049409,
->>>>>>> 4449e09bfd71986411b618d7924db93233def974
   "index": "/index.html",
   "assetGroups": [
     {
@@ -17,23 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-<<<<<<< HEAD
         "/main.abca2ff368ee1db88c3a.js",
-=======
-        "/main.70d0263b77ed8f29aa55.js",
-        "/main.7609677b26ba503b1ad7.js",
-        "/main.7cb97ada887cf4e727f2.js",
-        "/main.b719f8975870276c39e4.js",
-        "/main.c845f6f8e84d351052a3.js",
-        "/main.dfb2419b7ed08009540b.js",
->>>>>>> 4449e09bfd71986411b618d7924db93233def974
         "/manifest.webmanifest",
-        "/ngsw-worker.js",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
-        "/safety-worker.js",
-        "/styles.fbb8e09e6825ca99ab01.css",
-        "/worker-basic.min.js"
+        "/styles.fbb8e09e6825ca99ab01.css"
       ],
       "patterns": []
     },
@@ -92,29 +76,16 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-<<<<<<< HEAD
     "/index.html": "714936d82439c4176a726341badcc0e81f326796",
     "/main.abca2ff368ee1db88c3a.js": "a26c88d52a74ddeb249197eec14777e20c55c2ac",
-=======
-    "/index.html": "7b0fe33817a48c1b65d2478cfefd75aece67aa8a",
-    "/main.70d0263b77ed8f29aa55.js": "9eea70f716ab010f181c10c8d1a8530ac94f1694",
-    "/main.7609677b26ba503b1ad7.js": "fb5d4126d207602285ab757be0414490a20a8073",
-    "/main.7cb97ada887cf4e727f2.js": "e90b04766c5f675359e821fa347e0f9f19a1a8d8",
-    "/main.b719f8975870276c39e4.js": "a7763b10fccefe556050fdabab60c6a275df1b70",
-    "/main.c845f6f8e84d351052a3.js": "bb787f68d026f331104f51896489d628c644a877",
-    "/main.dfb2419b7ed08009540b.js": "875eaa7fba38cfe2daec1676783f43dad4467f1c",
->>>>>>> 4449e09bfd71986411b618d7924db93233def974
     "/manifest.webmanifest": "eb31a232cba2d063eda48e70820e8510f1917cf7",
-    "/ngsw-worker.js": "601253069e8f1d4f717e0bd54332587669d68261",
     "/order-ascending.091d3b6d3083cb84793b.svg": "81f52dddb5f66ec8c573b77b9aa714b550fdd14d",
     "/order-descending.f60e7f2ec6983b34bd67.svg": "c81adfc4f91025439deca866aaf80d1321a4fca0",
     "/order-unselected.ec2002dad008181c28cc.svg": "8eefdabc55f99d3280202048e16e3f40abff4186",
     "/po-logo-menu-panel.ee64c0878d14409f8053.svg": "62ac9515ec3398ac98d93de4e29ff46078a32eb9",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
-    "/styles.fbb8e09e6825ca99ab01.css": "df92d3c67018398865d15bc48a0af55b558331c5",
-    "/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
+    "/styles.fbb8e09e6825ca99ab01.css": "df92d3c67018398865d15bc48a0af55b558331c5"
   },
   "navigationUrls": [
     {
