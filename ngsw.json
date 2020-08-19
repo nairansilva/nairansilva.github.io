@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597773934083,
+  "timestamp": 1597871788889,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.21face04d6b8dfa4ba6d.js",
+        "/main.34905a9c29777a71b876.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
@@ -55,7 +55,22 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "homologtgv",
+      "patterns": [
+        "http:\\/\\/homologtgv\\.com\\.br\\/[^/]*"
+      ],
+      "strategy": "performance",
+      "maxSize": 1000,
+      "maxAge": 36000000,
+      "timeoutMs": 5000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/NunitoSans-Bold.75691ead9302573e74e3.ttf": "8ebd43c3b1c36c1acacb5c59bd087da110eb47c7",
     "/NunitoSans-ExtraLight.8719faed79cf6dfbee48.ttf": "a4c94084f250a7361674b87d80599a2858ce87ab",
@@ -76,8 +91,8 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "2215e803bffc97272e6a9a0a3e5cf2795e97a86a",
-    "/main.21face04d6b8dfa4ba6d.js": "009592324d88bfb9cd2fab6c9f9e5ff813cb0a44",
+    "/index.html": "1ffc43f7cc38a68ca1e124ab59e0fcfc2563537b",
+    "/main.34905a9c29777a71b876.js": "a692d9233eb535fb94b0fc7750c72143ad02f406",
     "/manifest.webmanifest": "eb31a232cba2d063eda48e70820e8510f1917cf7",
     "/order-ascending.091d3b6d3083cb84793b.svg": "81f52dddb5f66ec8c573b77b9aa714b550fdd14d",
     "/order-descending.f60e7f2ec6983b34bd67.svg": "c81adfc4f91025439deca866aaf80d1321a4fca0",
