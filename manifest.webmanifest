@@ -1,6 +1,6 @@
 {
-  "name": "gestao-de-vendas",
-  "short_name": "gestao-de-vendas",
+  "name": "Gestão de Vendas",
+  "short_name": "TGV",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
