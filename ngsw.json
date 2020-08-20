@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597955803807,
+  "timestamp": 1597957777932,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -59,7 +59,8 @@
     {
       "name": "homologtgv",
       "patterns": [
-        "http:\\/\\/homologtgv\\.com\\.br\\/[^/]*"
+        "https:\\/\\/homologtgv\\.com\\.br\\/[^/]*",
+        "https:\\/\\/nairansilva\\.github\\.io\\/[^/]*"
       ],
       "strategy": "freshness",
       "maxSize": 1000,
