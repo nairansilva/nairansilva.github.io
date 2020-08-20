@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597884091834,
+  "timestamp": 1597887706696,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.54404cc0019ead9e6f8a.js",
+        "/main.a7e0a8884bd42c7dd310.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
@@ -59,7 +59,7 @@
     {
       "name": "homologtgv",
       "patterns": [],
-      "strategy": "performance",
+      "strategy": "freshness",
       "maxSize": 1000,
       "maxAge": 36000000,
       "timeoutMs": 5000,
@@ -89,8 +89,8 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "67b61aebc83b7c292046efca45613ab0fe300ae1",
-    "/main.54404cc0019ead9e6f8a.js": "6030ea4af252df1a6e0ffd42498ecc47ef5ef4ed",
+    "/index.html": "3ba922219dce16b5d565d597e6d96ad919b629b7",
+    "/main.a7e0a8884bd42c7dd310.js": "5e252de901c4f0c470724d6af4be1b3ebfa7175d",
     "/manifest.webmanifest": "eb31a232cba2d063eda48e70820e8510f1917cf7",
     "/order-ascending.091d3b6d3083cb84793b.svg": "81f52dddb5f66ec8c573b77b9aa714b550fdd14d",
     "/order-descending.f60e7f2ec6983b34bd67.svg": "c81adfc4f91025439deca866aaf80d1321a4fca0",
